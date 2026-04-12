@@ -1,0 +1,3 @@
+Host: scanme.nmap.org
+Start port: 1
+End port: 500
